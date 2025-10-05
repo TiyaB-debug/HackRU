@@ -1,0 +1,22 @@
+.header {
+  background-color: #5ea3a4; /* Soft teal background */
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+.header h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: serif, Garamond;
+}
+
+.header p {
+  font-size: 1.3rem;
+  color: #f3c2c2; /* Light pastel pink */
+  font-family: Sans-serif	, Helvetica;
+
+}
