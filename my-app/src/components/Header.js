@@ -4,7 +4,7 @@ import '../styles/Header.css';
 function Header() {
   return (
     <header className="header">
-      <h1>Healthy Meal Planner</h1>
+      <h1>NutriPlan</h1>
       <p>Plan meals with ease using ingredients you have!</p>
     </header>
   );
